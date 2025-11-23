@@ -12,7 +12,12 @@
 
 <img width="1897" height="942" alt="image" src="https://github.com/user-attachments/assets/5643faa5-2bcc-4712-a672-19397d6219ab" />
 
+#Lab 4
+<img width="1468" height="273" alt="image" src="https://github.com/user-attachments/assets/70b96d6c-515f-41fe-bff3-f6f5e110d996" />
 
+<img width="1324" height="304" alt="image" src="https://github.com/user-attachments/assets/187c284a-3a84-4223-a3bf-a0152969d537" />
+
+<img width="947" height="329" alt="image" src="https://github.com/user-attachments/assets/ade522fb-9c3b-4fb2-a028-c7b6cb73ddf1" />
 
 
 
